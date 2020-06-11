@@ -1,0 +1,6 @@
+haris >>> ['punjab', 'hari@mail.com']
+
+kashi >>> ['punjab', 'kashi@mail.com']
+
+johnny >>> ['london uk', 'john@mail.com']
+
